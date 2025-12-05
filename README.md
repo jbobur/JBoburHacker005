@@ -8,7 +8,9 @@
 **💻** **Profession:**   Fullstack Developer | Software Engineer | AI Prompter | Cybersecurity Specialist
 **🎯** **Goal:** My goal is to develop my knowledge and skills in programming step by step. I aim to create useful projects, strengthen my practical abilities, and learn how to solve real-world problems using technology. In the future, I want to become a strong and independent developer who understands modern technologies and can work confidently on professional projects.
 **🎓** **I knew this programming:** Python, HTML, CSS, Web Development, Java, C++, React and Cybersecurity   
-                                          
+
+
+---
                                                  
                                                                                                 
                                                                                                                                                                                                 
@@ -50,7 +52,15 @@
                                        #                 ##@@##*#=               %             .##  -        
                                        %                                         #                           
                                                                                  #                           
-                                                                                 %                           
+                                                                                 %  
+
+
+
+---
+
+
+
+
 ## 🚀 Technologies & Skills
 
 ### 🎨 Frontend Technologies
