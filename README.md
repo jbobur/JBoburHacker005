@@ -5,9 +5,9 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** Hacker  
-🎯 **Goal:** Studying Hack  
-🎓 **I knew this programming:** Python, HTML, CSS, Web Development, Cybersecurity   
+💻 **Profession:**   Fullstack Developer, Software Engineer, AI Prompter and Cybersecurity Specialist
+🎯 **Goal:** 
+🎓 **I knew this programming:** Python, HTML, CSS, Web Development, Java, C++, React and Cybersecurity   
                                           
                                                  
                                                                                                 
