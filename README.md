@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=100&color=blue&center=true&vCenter=true&hight=700&width=1000&lines=Hello!+I'm+Bobur+Jovliyev!;I'm+Fullstack+Developer!+and+Software+Engener!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=100&color=blue&center=true&vCenter=true&hight=700&width=1000&lines=Hello!+I'm+Bobur+Jovliyev!;I'm+Fullstack+Developer;+and+Software+Engener!" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
